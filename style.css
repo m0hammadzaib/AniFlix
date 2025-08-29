@@ -3,19 +3,20 @@
     padding: 0;
     box-sizing: border-box;
 }
+
 body {
     background-color: #141414;
     font-family: "Poppins", sans-serif;
     color: white;
 }
 
-/* Main Background */
 .main {
     height: 100vh;
     width: 100%;
     background: url(assets/bg.jpg) no-repeat center center/cover;
     position: relative;
 }
+
 .box {
     background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.9));
     position: absolute;
@@ -31,13 +32,16 @@ nav {
     justify-content: space-between;
     align-items: center;
 }
+
 nav img {
     width: 150px;
 }
+
 .nav-buttons {
     display: flex;
     gap: 10px;
 }
+
 .btn {
     font-size: 0.9rem;
     font-weight: 600;
@@ -50,15 +54,18 @@ nav img {
     transition: all 0.2s ease;
 
 }
+
 .btn-red-sm {
     background: #e50914;
     border: none;
 }
+
 .btn-red-sm:hover {
-    background-color:#b00610;
+    background-color: #b00610;
 }
-.btn-red:hover{
-    background-color:#b00610;
+
+.btn-red:hover {
+    background-color: #b00610;
 }
 
 /* Hero Section */
@@ -74,20 +81,24 @@ nav img {
     text-align: center;
     padding: 0 20px;
 }
+
 .hero span:nth-child(1) {
     font-size: 3rem;
     font-weight: 900;
 }
+
 .hero span:nth-child(2) {
     font-size: 1.3rem;
     font-weight: 500;
 }
+
 .hero-buttons {
     display: flex;
     gap: 10px;
     flex-wrap: wrap;
     justify-content: center;
 }
+
 .hero input {
     padding: 14px;
     width: 280px;
@@ -95,6 +106,7 @@ nav img {
     border-radius: 5px;
     font-size: 1rem;
 }
+
 .btn-red {
     background: #E50914;
     color: white;
@@ -107,11 +119,11 @@ nav img {
 
 
 .sep {
-    border: 3px solid #ff0055; 
-  border-radius: 25px; 
-  box-shadow: 0 0 10px #ff0055,
-              0 0 20px #ff0055,
-              0 0 30px #ff0055;
+    border: 3px solid #ff0055;
+    border-radius: 25px;
+    box-shadow: 0 0 10px #ff0055,
+        0 0 20px #ff0055,
+        0 0 30px #ff0055;
 }
 
 
@@ -122,6 +134,7 @@ nav img {
     max-width: 90%;
     position: relative;
 }
+
 .reason {
     display: flex;
     align-items: center;
@@ -130,12 +143,14 @@ nav img {
     scrollbar-width: none;
     padding: 10px;
 }
+
 .card img {
     height: 300px;
     border-radius: 8px;
     transition: all 0.2s ease-in-out;
     filter: brightness(85%);
 }
+
 .card img:hover {
     box-shadow: 0 0 15px rgba(229, 9, 20, 0.7);
     transform: scale(1.05);
@@ -146,17 +161,20 @@ nav img {
     margin: 60px auto;
     text-align: center;
 }
+
 .reasons h2 {
     font-size: 2rem;
     font-weight: 700;
     margin-bottom: 30px;
 }
+
 .reason-boxes {
     display: flex;
     gap: 20px;
     flex-wrap: wrap;
     justify-content: center;
 }
+
 .reason-box {
     flex: 1 1 calc(25% - 20px);
     background: linear-gradient(135deg, #3c1d4b8b, #19345a93);
@@ -167,6 +185,7 @@ nav img {
     min-width: 220px;
     height: 280px;
 }
+
 .reason-box .icon {
     font-size: 3rem;
     position: absolute;
@@ -174,10 +193,12 @@ nav img {
     right: 20px;
     opacity: 0.8;
 }
+
 .reason-box h3 {
     font-size: 1.2rem;
     margin-bottom: 10px;
 }
+
 .reason-box p {
     font-size: 0.95rem;
     color: #ccc;
@@ -188,11 +209,13 @@ nav img {
     margin: 70px auto;
     text-align: center;
 }
+
 .faq h2 {
     font-size: 2rem;
     font-weight: 700;
     margin-bottom: 25px;
 }
+
 .faq-item {
     background: #1c1c1c;
     border-radius: 10px;
@@ -201,14 +224,17 @@ nav img {
     text-align: left;
     transition: background 0.3s ease;
 }
+
 .faq-item:hover {
     background: #292929;
 }
+
 .faq-item h3 {
     font-size: 1.1rem;
     margin-bottom: 8px;
     color: #fff;
 }
+
 .faq-item p {
     font-size: 0.95rem;
     color: #bbb;
@@ -222,21 +248,25 @@ nav img {
     border-radius: 12px;
     max-width: 600px;
 }
+
 .newsletter h2 {
     font-size: 1.8rem;
     margin-bottom: 10px;
 }
+
 .newsletter p {
     font-size: 1rem;
     margin-bottom: 20px;
     color: #ccc;
 }
+
 .newsletter form {
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
     gap: 12px;
 }
+
 .newsletter input {
     padding: 14px;
     width: 65%;
@@ -245,6 +275,7 @@ nav img {
     border-radius: 5px;
     font-size: 1rem;
 }
+
 .newsletter button {
     background: #E50914;
     color: white;
@@ -255,6 +286,7 @@ nav img {
     cursor: pointer;
     transition: background 0.3s ease;
 }
+
 .newsletter button:hover {
     background: #b00610;
 }
@@ -266,24 +298,27 @@ footer {
     text-align: center;
     margin-top: 50px;
 }
+
 footer p {
     margin-bottom: 15px;
     color: #aaa;
     font-size: 0.9rem;
 }
+
 .footer-links {
     display: flex;
     justify-content: center;
     gap: 20px;
     flex-wrap: wrap;
 }
+
 .footer-links a {
     color: #ccc;
     text-decoration: none;
     font-size: 0.9rem;
     transition: color 0.3s ease;
 }
+
 .footer-links a:hover {
     color: #fff;
 }
-
