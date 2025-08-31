@@ -23,6 +23,23 @@ It replicates the look and feel of Netflix’s homepage, featuring a sleek UI, r
 - **CSS3** – Styling, Flexbox/Grid, Animations, Responsive layout
 
 ---
+## 📸 Screenshots  
+### 🖥️ Desktop Preview  
+[Desktop Preview 1](./Preview/OnDesktop/s1.png)  
+![Desktop Preview 2](./Preview/OnDesktop/s2.png)  
+![Desktop Preview 2](./Preview/OnDesktop/s3.png)  
+![Desktop Preview 2](./Preview/OnDesktop/s4.png)  
+
+### 📱 Mobile Preview  
+<p align="center">
+  <img src="./Preview/OnMobile/S1.png" width="200" />
+  <img src="./Preview/OnMobile/S2.png" width="200" />
+  <img src="./Preview/OnMobile/S3.png" width="200" />
+  <img src="./Preview/OnMobile/S4.png" width="200" />
+  <img src="./Preview/OnMobile/S5.png" width="200" />
+</p>  
+
+---
 
 ## 💡Inspiration
 
