@@ -34,11 +34,11 @@ It replicates the look and feel of Netflix’s homepage, featuring a sleek UI, r
 ### 📱 Mobile Preview  
 
 <p align="center">
-  <img src="./Preview/OnMobile/S1.png" width="200" />
-  <img src="./Preview/OnMobile/S2.png" width="200" />
-  <img src="./Preview/OnMobile/S3.png" width="200" />
-  <img src="./Preview/OnMobile/S4.png" width="200" />
-  <img src="./Preview/OnMobile/S5.png" width="200" />
+  <img src="./Preview/OnMobile/S1.jpg" width="200" />
+  <img src="./Preview/OnMobile/S2.jpg" width="200" />
+  <img src="./Preview/OnMobile/S3.jpg" width="200" />
+  <img src="./Preview/OnMobile/S4.jpg" width="200" />
+  <img src="./Preview/OnMobile/S5.jjp" width="200" />
 </p>  
 
 ---
