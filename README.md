@@ -47,6 +47,6 @@ It replicates the look and feel of Netflix’s homepage, featuring a sleek UI, r
 
 This project was inspired by Netflix’s official landing page UI and created as a mini-project for learning frontend development.
 
-### Author👤
+### 👤
 **Mohammad Zaib**
 
