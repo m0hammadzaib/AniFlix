@@ -26,7 +26,7 @@ It replicates the look and feel of Netflix’s homepage, featuring a sleek UI, r
 ## 📸 Screenshots  
 ### 🖥️ Desktop Preview  
 
-[Desktop Preview 1](./Preview/OnDesktop/s1.png)  
+![Desktop Preview 1](./Preview/OnDesktop/s1.png)  
 ![Desktop Preview 2](./Preview/OnDesktop/s2.png)  
 ![Desktop Preview 2](./Preview/OnDesktop/s3.png)  
 ![Desktop Preview 2](./Preview/OnDesktop/s4.png)  
